@@ -1,5 +1,7 @@
 # VoeDLRustEdition
-Voe.SX downloader written in Rust
+Voe.SX downloader written in Rust 
+
+<h4>This is my first Rust application</h4>
 
 <h2>Usage</h2>
 
